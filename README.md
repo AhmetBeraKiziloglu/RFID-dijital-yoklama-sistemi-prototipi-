@@ -1,6 +1,5 @@
 # RFID-dijital-yoklama
 Arduino ile geliştirilen RFID tabanlı dijital yoklama sistemi.
-# RFID Tabanlı Dijital Yoklama Sistemi
 
 Arduino UNO ile geliştirilen bu sistem, öğrencilerin derse katılımını RFID kartlar ile otomatik olarak kaydeder.
 
