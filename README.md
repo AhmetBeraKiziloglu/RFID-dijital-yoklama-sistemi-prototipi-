@@ -19,4 +19,3 @@ Arduino UNO ile geliştirilen bu sistem, öğrencilerin derse katılımını RFI
 - Mesafe sensörü sayesinde kart okutulmadan yaklaşıldığında uyarı verir.
 - Butonla sistem açılıp kapatılabilir.
 
-# Kod
